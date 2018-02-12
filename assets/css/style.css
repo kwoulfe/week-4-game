@@ -1,24 +1,19 @@
 div.randomNumber, div.winsLosses {
 	float: left;
 }
-
 img {
 	width: 150px;
 	height: 150px;
 	float: left;
 	margin: 10px;
 }
-
 html {
-  background: url(https://roundtheworldwego.com/wp-content/uploads/2015/03/Ice-cave-tour-iceland.jpg) 
-  no-repeat center center fixed; 
-  background-size: cover;
+	background: url(https://roundtheworldwego.com/wp-content/uploads/2015/03/Ice-cave-tour-iceland.jpg) no-repeat center center fixed;
+	background-size: cover;
 }
-
 body {
 	color: white;
 }
-
 #userNumber {
 	color: white;
 	font-size: 20px;
@@ -30,24 +25,20 @@ body {
 	margin: 10px;
 	float: left;
 }
-
 .totalScore {
 	position: relative;
 	clear: both;
-	font-size: 20px;	
+	font-size: 20px;
 }
-
 .randomNumber {
 	color: white;
 	padding: 25px;
 	background-color: black;
 	margin: 10px;
 }
-
 .buttons {
-	clear:left;
+	clear: left;
 }
-
 .winsLosses {
 	clear: both;
 }
